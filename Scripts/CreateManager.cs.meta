@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: f9e94aa7a093e0e49943c770cd4abfa2
+timeCreated: 1521202156
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ConvLayer: {fileID: 1072011580136564, guid: 8054c3efca114194ab595808913d41c4,
+      type: 2}
+  - InputLayer: {fileID: 1062636295671350, guid: 31be4c86fb57a6b41a810f1c69d77b9e,
+      type: 2}
+  - PoolingLayer: {fileID: 1062636295671350, guid: fa06418826ebe7440a98d620205e76f1,
+      type: 2}
+  - DenseLayer: {fileID: 1062636295671350, guid: f164cece2c0959948b591d42a771eb1e,
+      type: 2}
+  - FrameModel: {fileID: 1703053952225138, guid: dad9b4d880c60f3439e007d6301d4f7e,
+      type: 2}
+  - FrameBlock: {fileID: 1741481502597728, guid: 01b02b4adc207bf4fa1c545859e43947,
+      type: 2}
+  - BlockInModel: {fileID: 1062636295671350, guid: 19a60e897155ec4468ccaf71e6c1dd33,
+      type: 2}
+  - LayerName: {instanceID: 0}
+  - LayerInput: {instanceID: 0}
+  - LayerSize: {instanceID: 0}
+  - LayerFilter: {instanceID: 0}
+  - LayerStride: {instanceID: 0}
+  - CurrentRoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
